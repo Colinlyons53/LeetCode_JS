@@ -6,6 +6,16 @@
 // twoSum([2,7,11,15], 9) --> [0,1]
 // twoSum([3,2,4], 9) --> [1,2]
 
-function twoSum(arr, target) {}
+function twoSum(arr, target) {
+        //loop through the array 
+        for (var i = 0; i < nums.length; i++) {
+            for (var j = i + 1; j < nums.length; j++ ){
+                if (nums[j] == target - nums[i] ) {
+                    return new int[arr] , { i, j };
+                }
+            }
+        }
+        throw new IllegalArguementException ("No Two Sum Solution");
+}
 
 module.exports = twoSum;
