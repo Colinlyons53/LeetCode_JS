@@ -6,6 +6,7 @@
 
 function lengthOfLongestSubstring(s) {
     let startIndex = 0;
+    let maxLength = 1;
 
 }
 
