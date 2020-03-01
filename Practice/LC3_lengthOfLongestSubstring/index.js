@@ -8,6 +8,9 @@ function lengthOfLongestSubstring(s) {
     let startIndex = 0;
     let maxLength = 1;
 
+    function expandAroundMiddle(left, right) {
+
+    }
 }
 
 module.exports = lengthOfLongestSubstring;
