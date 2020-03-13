@@ -5,7 +5,7 @@
 // lengthOfLongestSubstring("bbbbb") --> 1 since length of "b"
 
 function lengthOfLongestSubstring(s) {
-   i
+   
 
 }
 
