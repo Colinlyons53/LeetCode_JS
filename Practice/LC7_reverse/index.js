@@ -10,12 +10,6 @@
 function reverse(x) {
 
 
-    
-
-
-    
-
-
 
 }
 
