@@ -20,6 +20,7 @@ function isPalindrome(str) {
        left++;
        right--;
    }
+   
    //otherwise return true
      return true
 
